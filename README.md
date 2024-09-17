@@ -12,6 +12,8 @@ This project aims to create a robust and efficient ETL (Extract, Transform, Load
 - Ensure data quality and consistency throughout the pipeline.
 
 ### Technical Architecture
+![OpenWeather Python ETL Pipeline Architecture](https://github.com/user-attachments/assets/ef0d3192-3ee6-4d56-99d9-7e933c66c6a7)
+
 
 ![Image of a technical architecture diagram for the ETL pipeline]
 
